@@ -78,7 +78,7 @@ Follow these steps to get your development environment set up:
 
 2. **Navigate to the project directory**
    ```bash
-   cd sol-trading-cli
+   cd solana-trading-cli
    ```
 
 3. **Install the correct Node.js version**
